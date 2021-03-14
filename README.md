@@ -5,4 +5,4 @@ Interested in:
 - Web tools
 - CLI tools
 - VIM
-- Ebooks and epublications
+- Ebooks and epub readers
