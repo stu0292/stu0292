@@ -1,6 +1,3 @@
-👋 Hi, I’m Stu
+👋 Hi, I’m Stuart
 
-Interested in:
-- Functional programming
-- Web tools
-- CLI tools and scripting
+moving to [@stu-bell](https://github.com/stu-bell)
